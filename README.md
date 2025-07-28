@@ -4,7 +4,7 @@ Java Spring Boot Payment Gateway
 
 A backend project that simulates real-world payment flow including checkout, authorization, and refunds.
 
-### ⚙️ Tech Stack:
+### Tech Stack:
 - Java 21
 - Spring Boot 3+
 - Spring Security
@@ -12,7 +12,7 @@ A backend project that simulates real-world payment flow including checkout, aut
 - JWT
 - Docker
 
-### ✅ Features
+### Features
 - UPI/Card Payment Simulation
 - API Auth via JWT
 - Transaction Capture, Refund, and Retry Flow
