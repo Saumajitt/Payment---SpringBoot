@@ -1,0 +1,25 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+*.iml
+.idea/
+target/
+build/
+
+# Gradle or Maven
+.gradle/
+.mvn/
+*.bat
+*.cmd
+
+# Environment and credentials
+.env
+application.properties
+application.yml
+
+# System/IDE
+.DS_Store
+*.swp
+.vscode/
