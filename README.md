@@ -1,4 +1,4 @@
-# Payment---SpringBoot
+# Payment-SpringBoot
 Simulated payment gateway backend using Java + Spring Boot
 Java Spring Boot Payment Gateway
 
